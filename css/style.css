@@ -22,12 +22,13 @@ body {
   margin: auto;
   margin-top: 50px;
   border-right: none;
+  display: flex;
 }
 
 .search-button {
   padding: 10px 50px;
   border-radius: 25px;
-  margin-left: 30px;
+  margin-left: 35px;
 }
 #all-products {
   display: grid;
